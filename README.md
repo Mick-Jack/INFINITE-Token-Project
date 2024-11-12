@@ -1,1 +1,1 @@
-This is a personal create GZW token.
+This is a personally created GZW token.
